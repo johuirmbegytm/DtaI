@@ -19,4 +19,4 @@
 
 ## Хід роботи:
 1. Обираю 3 типи зображень (фотографія, скріншот, графічне зображення з текстом)
-![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/фотографія.png)
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/фотографія.png)
