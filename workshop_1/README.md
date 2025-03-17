@@ -17,6 +17,16 @@
     * Retina-дисплеї (2x, 3x версії для збереження якості).
 6. Закріпити навички документування та аналізу результатів у Markdown-форматі у GitHub-репозиторії.
 
-## Хід роботи:
-1. Обираю 3 типи зображень (фотографія, скріншот, графічне зображення з текстом)
+# Хід роботи:
+## Обираю 3 типи зображень (фотографія, скріншот, графічне зображення з текстом)
 ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/фотографія.png)
+
+Рисунок 1 - Фотографія
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/скріншот.png)
+
+Рисунок 2 - Скріншот
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/графічне%20зображення%20з%20текстом.png)
+
+Рисунок 3 - Графічне зображення з текстом
