@@ -138,3 +138,19 @@ _Для цього типу зображення краще використов
 50%
 
 _Для цього типу зображення всі формати підходять добре._
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/графМ3.png)
+
+Рисунок 13 – Скріншот, порівнюючи з форматом MozJPEG з рівнем якості 3%
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/графВеб3.png)
+
+Рисунок 14 – Скріншот, порівнюючи з форматом WebP з рівнем якості 
+3%
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/графВеА3.png)
+
+Рисунок 15 – Скріншот, порівнюючи з форматом AVIF з рівнем якості 
+3%
+
+_Для цього типу зображення краще використовувати формат WebP, тому що якість зберігається на високому рівні при низьких параметрах оптимізації._
