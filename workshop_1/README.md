@@ -30,3 +30,19 @@
 ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/графічне%20зображення%20з%20текстом.png)
 
 Рисунок 3 - Графічне зображення з текстом
+
+## Зафіксовую їхній початковий розмір, формат та вагу файлів
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/і_фотографія.png)
+
+Рисунок 4 - Інформація про фотографію
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/і_скріншот.png)
+
+Рисунок 5 - Інформація про скріншот
+
+![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_1/images/і_граф.png)
+
+Рисунок 6 - Інформація про графічне зображення з текстом
+
+## Завантажую кожне зображення в Squoosh
