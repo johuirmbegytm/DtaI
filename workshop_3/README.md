@@ -3,6 +3,7 @@
 
 ## Завдання:
 1. Повторити у фігмі “один в один” наступний елемент дизайну:
+   
 ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_3/images/1.png)
 
 ## Результат
