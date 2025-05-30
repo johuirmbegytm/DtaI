@@ -15,4 +15,4 @@
 >
 >*Рисунок 1 – Створений геометричний візерунок*
 
-Посилавння на [проєкт Figma](https://www.figma.com/design/f5uprtIyZWEP7YnGITACpt/Untitled?node-id=0-1&t=DmCAIc8g5POKE83A-1).
+Посилання на [проєкт Figma](https://www.figma.com/design/f5uprtIyZWEP7YnGITACpt/Untitled?node-id=0-1&t=DmCAIc8g5POKE83A-1).
