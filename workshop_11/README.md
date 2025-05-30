@@ -49,11 +49,15 @@
 
 2. Палітри з зображення (Extract Theme)
 
->![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_9/images/1.png)
+>![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_11/images/7.png)
 >
->*Рисунок 1 – Результат створення малої картки товару*
+>*Рисунок 1 – Зображення, яке буде використовуватися*
 
-Посилання на [проєкт Figma](https://www.figma.com/design/wWn6nTBPcdffCBEzDAgWdW/Untitled?node-id=0-1&t=wZl5wfActmAUttpG-1).
+| Настрій | Скріншот | Аналіз |
+|-------------|-------------|-------------|
+| Кольорова    | ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_11/images/8.png)    | Кольорові теми містять насичені та контрастні відтінки, що привертають увагу. Вони часто використовуються для динамічного та енергійного дизайну. Adobe Color допомагає знаходити оптимальні поєднання, використовуючи правила гармонії, такі як тріадна або аналогова схема. |
+| Яскрава    | ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_11/images/9.png)    | Яскраві теми мають високу насиченість і сильний контраст. Вони створюють емоційний вплив, роблячи дизайн живим і виразним. Adobe Color дозволяє регулювати яскравість і насиченість, щоб досягти потрібного ефекту. |
+| Приглушений | ![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_11/images/13.png) | Приглушені теми мають м'які, пастельні або затемнені відтінки. Вони використовуються для спокійного, елегантного та мінімалістичного дизайну. Adobe Color допомагає аналізувати відтінки та контраст, щоб зберегти гармонію. |
 
 
 
