@@ -10,5 +10,5 @@
 >
 >*Рисунок 1 – Результат повторення частини сторінки Basic*
 
-Посилавння на [проєкт Figma](https://www.figma.com/design/5EaufCbAkirZ4RMzEWjgfO/Untitled?node-id=0-1&t=Nbn4K3eTiUtB2F2S-1).
+Посилання на [проєкт Figma](https://www.figma.com/design/5EaufCbAkirZ4RMzEWjgfO/Untitled?node-id=0-1&t=Nbn4K3eTiUtB2F2S-1).
 
