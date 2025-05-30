@@ -10,7 +10,9 @@
 ## Хід роботи
 
 1. Результат виконання завдання
-![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_7/images/1.png)
-*Рисунок 9 – Створений геометричний візерунок*
+   
+>![Image alt](https://github.com/johuirmbegytm/DtaI/blob/main/workshop_7/images/1.png)
+>
+>*Рисунок 9 – Створений геометричний візерунок*
 
 Посилавння на [проєкт Figma](https://www.figma.com/design/f5uprtIyZWEP7YnGITACpt/Untitled?node-id=0-1&t=DmCAIc8g5POKE83A-1).
